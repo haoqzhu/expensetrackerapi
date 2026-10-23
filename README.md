@@ -278,9 +278,8 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 **Your Name**
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/haoqzhu)
-- GitHub: [Your GitHub](https://github.com/haoqzhu)
-- Portfolio: [Your Portfolio](https://yourwebsite.com)
+- LinkedIn: [haoqzhu](https://linkedin.com/in/haoqzhu)
+- GitHub: [haoqzhu](https://github.com/haoqzhu)
 
 ## 🙏 Acknowledgments
 
